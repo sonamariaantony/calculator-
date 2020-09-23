@@ -1,3 +1,3 @@
 # calculator-
 
-![alt text](https://github.com/sonamariaantony/calculator-/blob/master/img.png?raw=true)
+![alt text](https://github.com/sonamariaantony/calculator-/blob/master/image.png?raw=true)
